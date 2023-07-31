@@ -27,21 +27,4 @@ a relação entre as variáveis e aplicar Machine Learning com modelo Regressão
 
 ## Conclusão
 
-Com base em nossa análise observamos que as variáveis mais relevantes para identificar um bom candidato são:
-
-- Índice de Desenvolvimento da cidade onde mora o candidato.
-- Tempo de experiência profissional.
-- Se está ou não matriculado em um curso universitário.
-- Se tem ou não experiência relevante.
-- O nível educacional.
-- O tipo de empresa que o candidato trabalhou ou trabalha atualmente.
-- A especialização na graduação (quando for o caso).
-
-Não são relevantes para a análise:
-
-- O ID do candidato.
-- O código da cidade do candidato.
-- O gênero.
-- A última vez que o candidato esteve empregado.
-- O tamanho da empresa (quando for o caso).
-- Total de horas de treimamento.
+O modelo de Regressão logistica obteve alta precisão e ótima acurácia aplicando os métodos de undersampling e oversampling para balancear as classes,nosso objetivo neste projeto foi alcançado. Como dito antes esse não é unico modelo que trabalhe com este tipo de dados, mais a explicação de seus parâmetros é mais facil.
